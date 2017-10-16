@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Billmike/bootstrap-template.git"
+  },
+  "keywords": [],
+  "author": "Bill Michael <billmike1994@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Billmike/bootstrap-template/issues"
+  },
+  "homepage": "https://github.com/Billmike/bootstrap-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.4"
+  }
+}
